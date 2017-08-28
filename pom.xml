@@ -7,7 +7,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>Hello World</groupId>
+    <groupId>HelloWorld</groupId>
     <artifactId>Demo1</artifactId>
     <name>Example Project</name>
     <version>Demo</version>
